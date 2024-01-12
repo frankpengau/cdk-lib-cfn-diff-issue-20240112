@@ -1,0 +1,1 @@
+export * as cfndiff from "@aws-cdk/cloudformation-diff"

@@ -1,0 +1,5 @@
+
+> cdk-lib-cfn-diff-issue-20240112@0.1.0 build
+> tsc
+
+node_modules/@aws-cdk/cloudformation-diff/lib/diff-template.d.ts(1,37): error TS2307: Cannot find module 'aws-sdk' or its corresponding type declarations.
